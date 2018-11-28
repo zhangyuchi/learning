@@ -1,3 +1,5 @@
+<img src="https://cdn.pixabay.com/photo/2018/10/31/22/42/surprised-3786845_1280.jpg" height="25%" width="45%" />
+
 # 星标项目汇总
 
 ## 机器学习
@@ -99,6 +101,11 @@
 [rpcx](https://github.com/smallnest/rpcx)
 []()
 
+[linkerd2](https://github.com/linkerd/linkerd2)
+
+[]()
+
+[]()
 
 ## 区块链
 [Tutorial and example code for using libsnark](https://github.com/christianlundkvist/libsnark-tutorial)
@@ -107,8 +114,25 @@
 
 [bellman: zk-SNARK library](https://github.com/zkcrypto/bellman)
 
+[pysnark](https://github.com/Charterhouse/pysnark)
+
+
+[ethereum资料](https://github.com/ethereum/research)
+
+[zcoin](https://github.com/zcoinofficial/zcoin)
+
+[libsnark](https://github.com/zcash/libsnark)
+
+[scipr-lab/libsnark](https://github.com/scipr-lab/libsnark)
+
+[awesome-blockchains](https://github.com/openblockchains/awesome-blockchains)
+
+[awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
+
+[parity-ethereum](https://github.com/paritytech/parity-ethereum)
 
 ## 学习资料
+
 [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
 
 [CppCoreGuidelines-zh](https://github.com/lynnboy/CppCoreGuidelines-zh-CN)
@@ -123,7 +147,7 @@
 
 [Awesome list for Paxos and friends](https://github.com/dgryski/awesome-consensus)
 
-[]()
+[awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 []()
 []()
 []()
@@ -146,10 +170,23 @@
 [badger: Fast key-value DB in Go](https://github.com/dgraph-io/badger)
 
 [foundationdb](https://github.com/apple/foundationdb)
+spotify / sparkeyhttps://github.com/spotify/sparkey
+
+[spotify / sparkey](https://github.com/spotify/sparkey)
+
+[DGraph: Fast, Distributed Graph DB](https://github.com/dgraph-io/dgraph)
+
+[Pilosa is an open source, distributed bitmap index](https://github.com/pilosa/pilosa)
+
+## 分布式系统
+[braft](https://github.com/brpc/braft)
 
 []()
-[]()
-## 分布式系统
+
+## rust
+
+[A runtime for writing reliable, asynchronous, and slim applications](https://github.com/tokio-rs/tokio)
+
 
 ## 基础库
 
