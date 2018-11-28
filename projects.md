@@ -9,7 +9,7 @@
 
 [结巴中文分词](https://github.com/fxsjy/jieba)
 
-[中文自然语言工具库FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
+[FoolNLTK：中文分词和词性标注](https://github.com/rockyzhengwu/FoolNLTK)
 
 [euclidesdb: A multi-model machine learning feature embedding database](https://github.com/perone/euclidesdb)
 
@@ -22,6 +22,14 @@
 [[译] Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 
 [AiLearning: 机器学习](https://github.com/apachecn/AiLearning)
+
+[AiLearning: nlp](https://github.com/apachecn/AiLearning/tree/dev/blog/nlp)
+
+[AiLearning: 机器学习实战](https://github.com/apachecn/AiLearning/tree/dev/blog/ml)
+
+[python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
+
+[AiLearning: Wiki](http://cwiki.apachecn.org/display/ML)
 
 [Gorgonia is a library that helps facilitate machine learning in Go](https://github.com/gorgonia/gorgonia)
 
@@ -116,7 +124,6 @@
 
 [pysnark](https://github.com/Charterhouse/pysnark)
 
-
 [ethereum资料](https://github.com/ethereum/research)
 
 [zcoin](https://github.com/zcoinofficial/zcoin)
@@ -130,6 +137,11 @@
 [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
 
 [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+
+[ipfs](https://github.com/ipfs/go-ipfs)
+
+[区块链技术相关的论文、文档](https://github.com/blockchain-university/databank)
+
 
 ## 学习资料
 
@@ -181,7 +193,7 @@ spotify / sparkeyhttps://github.com/spotify/sparkey
 ## 分布式系统
 [braft](https://github.com/brpc/braft)
 
-[]()
+[rdsn](https://github.com/Microsoft/rDSN)
 
 ## rust
 
