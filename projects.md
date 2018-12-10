@@ -74,6 +74,7 @@
 [PhoenixGo：Go AI program which implements the AlphaGo Zero paper](https://github.com/Tencent/PhoenixGo)
 
 [GPU- and TPU-backed NumPy with differentiation and JIT compilation.](https://github.com/google/jax)
+
 [A toolkit for developing and comparing reinforcement learning algorithms](https://github.com/openai/gym)
 []()
 
